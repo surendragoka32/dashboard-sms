@@ -1,1 +1,1 @@
-hello this is my first class in git git
+hello this is my first class
